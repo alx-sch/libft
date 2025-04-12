@@ -1,4 +1,4 @@
-# 42_libft
+# libft
 <p align="center">
     <img src="https://raw.githubusercontent.com/alx-sch/42_libft/main/.assets/libfte.png" alt="libft_badge.png" />
 </p>
