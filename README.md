@@ -1,6 +1,6 @@
 # libft
 <p align="center">
-    <img src="https://raw.githubusercontent.com/alx-sch/42_libft/main/.assets/libfte.png" alt="libft_badge.png" />
+    <img src=".assets/libfte.png" alt="libft_badge.png" />
 </p>
 
 A custom implementation of key standard C library and other useful functions. This library serves as a toolkit for subsequent projects by providing a collection of essential functions commonly used in C programming. Bonus included.
